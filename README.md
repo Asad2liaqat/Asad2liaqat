@@ -1,8 +1,8 @@
 # Hi, I'm Asad Liaqat 👋
 
-🎓 Final-year B.S. Cyber Security & Digital Forensics — IUB (CGPA 3.46)
-📍 Bahawalpur, Pakistan
-🔍 Actively seeking a Cybersecurity / Data Analytics internship
+🎓 B.S. Cyber Security & Digital Forensics — IUB
+📍 Lodhran Pakistan
+🔍 Actively seeking a Cybersecurity / Data Analytics etc
 
 ---
 
