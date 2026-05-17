@@ -2,7 +2,7 @@
 
 🎓 B.S. Cyber Security & Digital Forensics — IUB
 📍 Lodhran Pakistan
-🔍 Actively seeking a Cybersecurity / Data Analytics etc
+🔍 Actively seeking a Cybersecurity / Data Analytics / SOC
 
 ---
 
