@@ -20,7 +20,7 @@
 🔐 [Phishing Detection ML](https://github.com/Asad2liaqat/Phishing-detection-ml)
 — ML classifier on real Wireshark traffic | 85% accuracy
 
-🗄️ [Secure DBMS Web App](https://github.com/Asad2liaqat/secure-dbms-webapp)
+🗄️ [Secure DBMS Web](https://github.com/Asad2liaqat/Dbms-website)
 — Full-stack app hardened against SQL injection | OWASP Top 10
 
 📡 [IoT Vulnerability Scanning — Research Paper](https://github.com/Asad2liaqat/Vulnerability-scanning-review)
